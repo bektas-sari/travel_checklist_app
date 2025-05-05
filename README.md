@@ -2,13 +2,6 @@
 
 Travel Checklist App helps you prepare for your trips with a neat list of pre-travel tasks. Each task has a checkbox and a progress slider to track your readiness with visual feedback.
 
-## 📱 Screenshot
-
-*(Replace with actual screenshot when available)*
-![Screenshot Placeholder](https://via.placeholder.com/300x600.png?text=Screenshot+Coming+Soon)
-
----
-
 ## ✅ Features
 
 * 📋 Task list with checkbox functionality
@@ -23,7 +16,7 @@ Travel Checklist App helps you prepare for your trips with a neat list of pre-tr
 1. **Clone the repository**
 
    ```bash
-   git clone https://github.com/your-username/travel_checklist_app.git
+   git clone https://github.com/bektas-sari/travel_checklist_app.git
    ```
 
 2. **Navigate to the folder**
