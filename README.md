@@ -76,7 +76,6 @@ GitHub: [bektas-sari](https://github.com/bektas-sari)
 
 ## 📝 License
 
-MIT License. See the LICENSE file for more info.
-
+MIT License. 
 ---
 
