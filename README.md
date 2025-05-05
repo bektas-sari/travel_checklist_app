@@ -52,8 +52,7 @@ Travel Checklist App helps you prepare for your trips with a neat list of pre-tr
 ```
 lib/
  └── main.dart       # All logic and UI in one clean canvas
-assets/
- └── icons/          # Travel-related icons (optional)
+
 ```
 
 ---
