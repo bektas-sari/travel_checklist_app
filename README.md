@@ -1,8 +1,4 @@
-Anladım, sana düzgün ve **tek sayfa, profesyonel, Kanva tarzında bir README.md** gerekiyor. Hemen aşağıda istediğin formatta ve net bir şekilde yazılmıştır:
-
----
-
-# ✈️ Travel Checklist App
+# ✈️ Travel Checklist  (Flutter APP)
 
 Travel Checklist App helps you prepare for your trips with a neat list of pre-travel tasks. Each task has a checkbox and a progress slider to track your readiness with visual feedback.
 
